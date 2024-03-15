@@ -1,1 +1,19 @@
-# passenger-forecasting-air-travel-trends
+# Airline Passenger Forecasting using Linear Regression
+
+## Introduction
+The focus is on leveraging historical data to predict future trends using Linear Regression, a powerful statistical technique. Linear regression enables us to forecast future passenger numbers based on past trends using our air travel dataset.
+
+### Importance
+Anticipating future trends is crucial for strategic decision-making. Airlines rely on these predictions for operational and strategic decisions such as flight scheduling, capacity planning, resource allocation, and strategic expansions.
+
+## Introduction to Linear Regression
+Linear regression assumes a linear relationship between dependent and independent variables. In our context, we predict the number of passengers based on time (years or months).
+
+## Quality of Fit: The R-Squared Statistic
+The R-squared statistic measures how well the regression equation explains the variance in the dependent variable. A value closer to 1 indicates a better fit. This demonstrates the effectiveness of our linear regression model in forecasting future trends in airline passenger traffic.
+
+## Future Predictions
+Once the model is validated, we can predict future passenger traffic.
+
+## Conclusion
+In this project, I used Linear Regression to predict future trends in the airline industry. By understanding the fundamentals of linear regression, applying Python's sklearn library, and interpreting the R-squared statistic, I was able to make accurate predictions about future passenger numbers. These skills are invaluable in decision-making processes across various industries.
