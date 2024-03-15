@@ -1,7 +1,7 @@
 # Airline Passenger Forecasting using Linear Regression
 
 ## Introduction
-The focus is on leveraging historical data to predict future trends using Linear Regression, a powerful statistical technique. Linear regression enables us to forecast future passenger numbers based on past trends using our air travel dataset.
+The project focuses on leveraging historical air travel data to forecast future passenger trends using advanced statistical techniques, particularly Linear Regression. By analyzing past trends and patterns, I aim to provide valuable insights for strategic decision-making in the aviation industry. Anticipating future passenger numbers is essential for airlines to optimize flight schedules, allocate resources efficiently, and plan for future expansions. With this approach I strive to empower airlines with accurate predictions, enabling them to stay ahead in an ever-evolving industry landscape.
 
 ### Importance
 Anticipating future trends is crucial for strategic decision-making. Airlines rely on these predictions for operational and strategic decisions such as flight scheduling, capacity planning, resource allocation, and strategic expansions.
